@@ -1,4 +1,4 @@
-# naiveBayesClassifier
+# IMDB-Sentiment-Analysis with naiveBayesClassifier
 Prediction of sentiments of movie reviews using Naive Bayes Classifier
 
 Naive Bayes is a generative classifier which assumes that all the features presemt in data are independent frm each other.
